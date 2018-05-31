@@ -1,0 +1,42 @@
+take brass key
+go south
+take gold key
+use brass key
+south
+go south
+use gold key
+east
+go east
+take silver key
+go south
+use silver key
+east
+go east
+go east
+take antique key
+use antique key
+north
+go north
+take bronze key
+go south
+use bronze key
+south
+go south
+take iron key
+use iron key
+south
+go south
+take wood key
+go north
+go north
+go west
+go west
+go north
+go west
+go north
+go north
+use wood key
+east
+go east
+go north
+go exit
